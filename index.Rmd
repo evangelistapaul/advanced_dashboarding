@@ -12,6 +12,8 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+#fabulous session with Dan Baller
+#here is link to video:  https://usarmywestpoint-my.sharepoint.com/:v:/g/personal/daniel_baller_westpoint_edu/EbW1kJgxaNlJuhXPDx0QIVgBGRm00V9v-UgvOKfmW69w7Q
 library(flexdashboard)
 library(tidyverse)
 library(palmerpenguins)
